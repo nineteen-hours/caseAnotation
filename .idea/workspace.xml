@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-201.7223.91" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -63,10 +63,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="619" y="259" key="FileChooserDialogImpl" timestamp="1590800490067">
+    <state x="722" y="367" width="710" height="462" key="#Notifications" timestamp="1590826363066">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="619" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1590800490067" />
+    <state x="722" y="367" width="710" height="462" key="#Notifications/0.0.1680.1010@0.0.1680.1010" timestamp="1590826363066" />
+    <state x="619" y="259" key="FileChooserDialogImpl" timestamp="1590826381913">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="619" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1590826381913" />
     <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1590800681891">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -83,10 +87,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1590800681891" />
-    <state x="341" y="149" key="SettingsEditor" timestamp="1590822879549">
+    <state x="341" y="149" key="SettingsEditor" timestamp="1590826390253">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1590822879549" />
+    <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1590826390253" />
     <state x="214" y="165" key="new project wizard" timestamp="1590800493178">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
