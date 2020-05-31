@@ -4,9 +4,13 @@ import java.lang.annotation.Annotation;
 
 public class mainTest {
     public static void main(String[] args) throws ClassNotFoundException {
-        annotationClassTest aTest = new annotationClassTest();
-        aTest.Execute();
-        Execute();
+//        annotationClassTest aTest = new annotationClassTest();
+//        aTest.Execute();
+////        Execute();
+//        staticAnnotationClass sd = new staticAnnotationClass();
+
+        childClassAnnotation child = new childClassAnnotation();
+        child.Execute();
     }
 
     public static void Execute() throws ClassNotFoundException {

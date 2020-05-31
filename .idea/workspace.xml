@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="96bea631-f66f-4d7a-a0c7-6a4c3d5edadd" name="Default Changelist" comment="" />
+    <list default="true" id="96bea631-f66f-4d7a-a0c7-6a4c3d5edadd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/test/src/main/java/com/jie/childClassAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test/src/main/java/com/jie/staticAnnotationClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/src/main/java/com/jie/annotationClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/src/main/java/com/jie/annotationClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/src/main/java/com/jie/mainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/src/main/java/com/jie/mainTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,6 +141,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="722" y="367" width="710" height="462" key="#Notifications/0.0.1680.1010@0.0.1680.1010" timestamp="1590826363066" />
+    <state x="645" y="210" key="#com.intellij.ide.util.MemberChooser" timestamp="1590926123080">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="210" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1590926123080" />
     <state x="570" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590827537537">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -129,42 +157,46 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="619" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1590826381913" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1590913736429">
+    <state width="1637" height="240" key="GridCell.Tab.0.bottom" timestamp="1590926350744">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1590913736429" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1590913736429">
+    <state width="1637" height="240" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1590926350744" />
+    <state width="1637" height="240" key="GridCell.Tab.0.center" timestamp="1590926350744">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1590913736429" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1590913736429">
+    <state width="1637" height="240" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1590926350744" />
+    <state width="1637" height="240" key="GridCell.Tab.0.left" timestamp="1590926350744">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1590913736429" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1590913736429">
+    <state width="1637" height="240" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1590926350744" />
+    <state width="1637" height="240" key="GridCell.Tab.0.right" timestamp="1590926350744">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1590913736429" />
-    <state width="1637" height="336" key="GridCell.Tab.1.bottom" timestamp="1590912350217">
+    <state width="1637" height="240" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1590926350744" />
+    <state width="1637" height="336" key="GridCell.Tab.1.bottom" timestamp="1590923258940">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="336" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1590912350217" />
-    <state width="1637" height="336" key="GridCell.Tab.1.center" timestamp="1590912350217">
+    <state width="1637" height="336" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1590923258940" />
+    <state width="1637" height="336" key="GridCell.Tab.1.center" timestamp="1590923258940">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="336" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1590912350217" />
-    <state width="1637" height="336" key="GridCell.Tab.1.left" timestamp="1590912350217">
+    <state width="1637" height="336" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1590923258940" />
+    <state width="1637" height="336" key="GridCell.Tab.1.left" timestamp="1590923258940">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="336" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1590912350217" />
-    <state width="1637" height="336" key="GridCell.Tab.1.right" timestamp="1590912350217">
+    <state width="1637" height="336" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1590923258940" />
+    <state width="1637" height="336" key="GridCell.Tab.1.right" timestamp="1590923258940">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="336" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1590912350217" />
+    <state width="1637" height="336" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1590923258940" />
     <state x="341" y="149" key="SettingsEditor" timestamp="1590826390253">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1590826390253" />
+    <state x="322" y="96" width="1351" height="772" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1590923254600">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="322" y="96" width="1351" height="772" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1010@0.0.1680.1010" timestamp="1590923254600" />
     <state x="214" y="165" key="new project wizard" timestamp="1590800493178">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -175,7 +207,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/test/src/main/java/com/jie/annotationClassTest.java</url>
-          <line>20</line>
+          <line>19</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
